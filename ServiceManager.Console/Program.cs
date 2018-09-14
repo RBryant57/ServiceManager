@@ -10,6 +10,7 @@ namespace ServiceManager.Console
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceManager.Console", "ServiceManager.Console\ServiceManager.Console.csproj", "{342C3731-5943-469D-8CF5-57C3281BDB15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceManager.Impersonator", "ServiceManager.Impersonator\ServiceManager.Impersonator.csproj", "{131B0BAB-A654-43B5-90BE-D165F75BBACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{342C3731-5943-469D-8CF5-57C3281BDB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{342C3731-5943-469D-8CF5-57C3281BDB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{342C3731-5943-469D-8CF5-57C3281BDB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131B0BAB-A654-43B5-90BE-D165F75BBACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131B0BAB-A654-43B5-90BE-D165F75BBACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131B0BAB-A654-43B5-90BE-D165F75BBACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131B0BAB-A654-43B5-90BE-D165F75BBACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
